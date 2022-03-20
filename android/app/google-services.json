@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733218044611",
+    "project_id": "fir-crud-demo-2846e",
+    "storage_bucket": "fir-crud-demo-2846e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733218044611:android:d747de68dbab7a363a8076",
+        "android_client_info": {
+          "package_name": "com.arosh.demo.demo_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733218044611-ics0bjjqa651chi5p6vd8ifiiksn7vi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCug8rhyGSL5cz9pKSua0NZ0mHiXpjciC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733218044611-ics0bjjqa651chi5p6vd8ifiiksn7vi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
