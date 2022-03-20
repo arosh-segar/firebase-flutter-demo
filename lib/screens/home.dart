@@ -4,6 +4,8 @@ import '../models/Quotes.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
+import 'login.dart';
+
 class Home extends StatefulWidget {
   static const String routeName = '/';
   const Home({Key? key, required this.title}) : super(key: key);
@@ -29,7 +31,7 @@ class _HomeState extends State<Home> {
                 color: Colors.white,
               ),
               onPressed: () {
-                /* Navigator.of(context).pushNamed(Cart.routeName); */
+                Navigator.of(context).pushNamed(Login.routeName);
               },
             )
           ],

@@ -47,17 +47,3 @@ class _QuoteItemState extends State<QuoteItem> {
         ));
   }
 }
-
-/* 
-
-Column(children: [
-          Text(widget.author + widget.id + widget.category),
-          IconButton(
-              onPressed: () {
-                Quotes.updateQuote(
-                    widget.id, widget.author + "ver", widget.category + "ver");
-              },
-              icon: const Icon(Icons.edit, color: Colors.black26)),
-        ])
-
-*/
