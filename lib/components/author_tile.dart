@@ -1,5 +1,5 @@
 import 'package:demo_flutter/models/Quotes.dart';
-import 'package:demo_flutter/screens/quote_item.dart';
+import 'package:demo_flutter/components/quote_item.dart';
 import 'package:flutter/material.dart';
 
 class AuthorTile extends StatelessWidget {
